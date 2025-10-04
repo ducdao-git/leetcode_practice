@@ -17,5 +17,5 @@ def create_py_file(problem_title):
 
 
 create_py_file(
-    "121. Best Time to Buy and Sell Stock"
+    "167. Two Sum II"
 )
