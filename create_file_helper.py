@@ -17,5 +17,5 @@ def create_py_file(problem_title):
 
 
 create_py_file(
-    "167. Two Sum II"
+    "70. Climbing Stairs"
 )
