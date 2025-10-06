@@ -17,5 +17,5 @@ def create_py_file(problem_title):
 
 
 create_py_file(
-    "70. Climbing Stairs"
+    "4. Median of Two Sorted Arrays"
 )
