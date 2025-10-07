@@ -17,5 +17,5 @@ def create_py_file(problem_title):
 
 
 create_py_file(
-    "4. Median of Two Sorted Arrays"
+    "42. Trapping Rain Water"
 )
